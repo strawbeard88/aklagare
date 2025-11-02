@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Momo+Trust+Sans:wght@200..800&display=swap');
+
+
+
+:root {
+    --backblack: #0E0E0E;
+    --backgray: #2E2E2E;
+    --darkblue: #274074;
+    --lightblue: #3559A5;
+    --textlight: white;
+    --gradiant: white, black, white, black, white;
+
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Momo Trust Sans", sans-serif;
+    color: var(--textlight);
+}
+
